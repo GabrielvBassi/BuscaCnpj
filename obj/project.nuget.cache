@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uNayv53G11U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\source\\repos\\TesteScrapping\\TesteScrapping\\ConsultaDeCNPJ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\htmlagilitypack\\1.11.65\\htmlagilitypack.1.11.65.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
